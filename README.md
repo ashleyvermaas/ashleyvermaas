@@ -17,15 +17,14 @@ I'm an American Dutchie, currently living in the Netherlands, who recently made 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 🚀 Currently
- - Building my portfolio website
- - Solving Kata's on CodeWars
- - Job Hunting :shipit:
-
 ## 🌱 Want to learn
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 
+## 🚀 Currently
+ - Building my portfolio website
+ - Solving Kata's on CodeWars
+ - Job Hunting :shipit:
 
 ## 🌎 Let's connect! 
 Feel free to send a message 💬 <br>
