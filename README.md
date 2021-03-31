@@ -1,4 +1,4 @@
-# Hi there, I'm [Ashley Vermaas](https://www.linkedin.com/in/ashley-vermaas/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hi there, I'm [Ashley](https://www.linkedin.com/in/ashley-vermaas/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ## 🙋🏽‍♀️ About Me
 I'm an American Dutchie, currently living in the Netherlands, who recently made a career switch into tech. I can now proudly say that I'm a **Full-Stack Web Developer** with a B.A. in Communication. 
