@@ -29,7 +29,7 @@ I'm an American Dutchie, currently living in the Netherlands, who recently made 
 ## 🌎 Let's connect! 
 Feel free to send a message 💬 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vermaas/)](https://www.linkedin.com/in/ashley-vermaas/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vermaas/)](https://www.linkedin.com/in/ashley-vermaas/) 
 
 
 <!--
