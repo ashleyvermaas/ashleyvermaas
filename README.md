@@ -18,7 +18,7 @@ I'm an American Dutchie, currently living in the Netherlands, who recently made 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&color=white)
 
 ## 🌱 Want to learn
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&color=white) ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=blue&color=white)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&color=white) ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=blue&color=white) ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=blue&color=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react&color=white)
 
 ## 🚀 Currently
